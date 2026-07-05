@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+
+!README.md
+!tink-entry.ipynb
+
+!artifacts/
+!artifacts/**
